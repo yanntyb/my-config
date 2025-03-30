@@ -1,1 +1,0 @@
-# yanntyb-my-config
